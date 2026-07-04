@@ -6,22 +6,28 @@ Jika anda ingin lori atau treler anda kelihatan unik dan berbeza daripada yang l
 
 ---
 
-## 🛠️ Perkhidmatan & Polisi (Rules)
+## 📌 Maklumat & Tempahan (Klik untuk Buka)
+
+<details>
+<summary><b>🛠️ Perkhidmatan & Polisi (Rules)</b></summary>
+<br>
 
 Saya menerima pelbagai jenis tempahan skin mengikut kreativiti dan permintaan anda. Walau bagaimanapun, sila ambil perhatian tentang perkara berikut:
 
 *   **Boleh Dibuat:** Mana-mana jenis skin untuk lori (truck) atau treler (trailer) mengikut request anda (contoh: syarikat tempatan, lori hantu, gaya korporat, dll).
 *   **Tidak Boleh Dibuat (🚫 NSFW):** Saya **TIDAK** menerima tempahan skin yang mengandungi unsur NSFW (Not Safe For Work / Lucah) untuk tujuan jualan atau dikongsi awam. 
     > *Nota: Skin berunsur NSFW hanya dibuat untuk koleksi dan tujuan peribadi saya sendiri sahaja.*
+</details>
 
----
-
-## 📩 Cara Membuat Tempahan (Order)
+<details>
+<summary><b>📩 Cara Membuat Tempahan (Order)</b></summary>
+<br>
 
 Jika anda berminat dan mahu tempah skin custom, sila hubungi saya terus melalui pautan di bawah (Direct Message):
 
-*   [Hubungi Saya di WhatsApp / Discord / Facebook](#) *(Sila tukar teks ini dan letakkan link media sosial anda di sini)*
-*   [Instagram / TikTok / Hubungi Seterusnya](#) *(Sila letakkan link kedua anda di sini jika ada)*
+*   🔗 [Hubungi Saya di WhatsApp / Discord / Facebook](#) *(Sila tukar teks ini dan letakkan link media sosial anda di sini)*
+*   🔗 [Instagram / TikTok / Hubungi Seterusnya](#) *(Sila letakkan link kedua anda di sini jika ada)*
+</details>
 
 ---
 
