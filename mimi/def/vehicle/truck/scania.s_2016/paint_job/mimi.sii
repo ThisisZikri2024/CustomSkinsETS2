@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data: mimi.scania.s_2016.paint_job
+{
+@include "mimi_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mimi/Scania S/Cabin.tobj"
+}
+}
