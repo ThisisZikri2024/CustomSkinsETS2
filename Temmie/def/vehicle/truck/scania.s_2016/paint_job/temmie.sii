@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data: temmie.scania.s_2016.paint_job
+{
+@include "temmie_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/Temmie/Scania S/Cabin.tobj"
+}
+}
