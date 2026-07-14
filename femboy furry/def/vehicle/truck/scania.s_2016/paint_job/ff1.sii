@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data: ff1.scania.s_2016.paint_job
+{
+@include "ff1_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/femboy furry/Scania S/Cabin.tobj"
+}
+}
