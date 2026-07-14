@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data: poppyv2.scania.s_2016.paint_job
+{
+@include "poppyv2_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/Poppy V2/Scania S/Cabin.tobj"
+}
+}
